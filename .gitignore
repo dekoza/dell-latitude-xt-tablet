@@ -1,0 +1,7 @@
+doc/_build
+
+#Temporary files
+*~
+
+#PyCharm project
+.idea
