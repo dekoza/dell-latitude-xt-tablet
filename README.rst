@@ -3,7 +3,7 @@ dell-latitude-xt-tablet
 
 How to use Dell Latitude XT tablet with Linux - config files and HOWTOs.
 
-**This is work in progress**. Some of the configs, tips and HOWTOs are taken from `rafi's site <http://ofb.net/~rafi/latitude_xt.html>`_, `Gentoo's Wiki <http://en.gentoo-wiki.com/wiki/Dell_Latitude_XT>`_ and `Rene Mayrhofer's virtual home <http://www.mayrhofer.eu.org/kubuntu-on-dell-latitude-xt`_, although I found them a bit outdated. This is my personal approach and refinement to the case.
+**This is work in progress**. Some of the configs, tips and HOWTOs are taken from `rafi's site <http://ofb.net/~rafi/latitude_xt.html>`_, `Gentoo's Wiki <http://en.gentoo-wiki.com/wiki/Dell_Latitude_XT>`_ and `Rene Mayrhofer's virtual home <http://www.mayrhofer.eu.org/kubuntu-on-dell-latitude-xt>`_, although I found them a bit outdated. This is my personal approach and refinement to the case.
 
 Desired Features
 ================
