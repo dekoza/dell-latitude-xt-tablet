@@ -5,8 +5,8 @@ How to use Dell Latitude XT tablet with Linux - config files and HOWTOs.
 
 **This is work in progress**. Some of the configs, tips and HOWTOs are taken from [rafi's site](http://ofb.net/~rafi/latitude_xt.html), [Gentoo's Wiki](http://en.gentoo-wiki.com/wiki/Dell_Latitude_XT) and [Rene Mayrhofer's virtual home](http://www.mayrhofer.eu.org/kubuntu-on-dell-latitude-xt), although I found them a bit outdated. This is my personal approach and refinement to the case.
 
-Features
-========
+Desired Features
+================
 
 As of 2012-08-15 all major Linux distributions should install fine
 and utilize most of the features out-of-the-box. However there are some
@@ -33,8 +33,6 @@ twists) that Windows users have:
 *) Optional module
 
 My distribution of choice is [Arch Linux](http://archlinux.org) but I hope to write everything as distro-agnostic as possible.
-
-
 
 Contributing
 ============
