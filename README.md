@@ -1,4 +1,4 @@
-dell-tablet-latitude-xt
+dell-latitude-xt-tablet
 =======================
 
 How to use Dell Latitude XT tablet with Linux - config files and HOWTOs.
