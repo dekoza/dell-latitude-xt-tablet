@@ -15,18 +15,24 @@ I want to have a "full Latitude XT experience" (with some personal
 twists) that Windows users have:
 
 1. Touchscreen (using finger and pen)
+
    - multitouch if `possible <http://gizmodo.com/5025829/dell-latitude-xt-multi+touch-update-available-now>`_.
    - automatic switch to tablet mode (disable touch if pen is near screen - easier scetching) if possible
    - long-press for RMB menu
+
 2. Screen & pointer rotation
 3. Fingerprint reader with optimal usability/safety solution (eg. login and unlock encrypted partition using password then just use fingerprints for unlocks, sudo etc.)
 4. Isolate and use every key on the lid. In present installations some buttons are confused and some are not recognized.
+
    - Use jog-click for mode select between Volume/Brightness/Scroll and then use up/down appropriately
    - Use BackKey as Esc/Ctrl+Z
+
 5. Fully functional wireless:
+
    - native WiFi (no ndiswrapper), with sniffing capability ;)
    - WWAN* (cellular network)
    - BlueTooth*
+
 6. Reuse WiFi Catcher button as BT switch.
 7. Use GPS* for navigation and geotagging.
 
