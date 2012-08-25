@@ -39,7 +39,6 @@ I found this script on `LinuxMint forum <http://forums.linuxmint.com/viewtopic.p
 and it's the best rotation script I could find:
 
 .. include:: ../scripts/rotate.sh
-
-I modified it a bit to only rotate to the right and back.
+   :code: sh
 
 You can easily bind this script to RotateScreenButton on the display.
